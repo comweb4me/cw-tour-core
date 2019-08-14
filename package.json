@@ -5,9 +5,9 @@
   "author": "Isaac Mann <isaacplmann@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^8.2.2",
-    "@angular/core": "^8.2.2",
-    "@angular/router": "^8.2.2",
+    "@angular/common": "^8.1.2",
+    "@angular/core": "^8.1.2",
+    "@angular/router": "^8.1.2",
     "rxjs": "^6.5.2"
   },
   "main": "bundles/ngx-tour-core.umd.js",
